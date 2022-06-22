@@ -1,0 +1,22 @@
+library images;
+
+const String splash = 'assets/images/splash.png';
+const String mvIcon = 'assets/images/mv_icon.png';
+const String mvSmallName = 'assets/images/mv_small_name.png';
+const String divisorLinha = 'assets/images/divisor_linha.png';
+const String googleIcon = 'assets/images/google_icon.png';
+const String facebookIcon = 'assets/images/facebook_icon.png';
+const String appleIcon = 'assets/images/apple_icon.png';
+const String confirmedEmail = 'assets/images/email_confirmado.png';
+const String profilePicture = 'assets/images/imagem_perfil.png';
+const String registrationCompleted = 'assets/images/cadastro_concluido.png';
+const String bag = 'assets/images/sacola.png';
+const String promotion = 'assets/images/promocao.png';
+const String notebook = 'assets/images/notebook.png';
+const String hardware = 'assets/images/hardware.png';
+const String perifericos = 'assets/images/perifericos.png';
+const String menuHome = 'assets/images/menu_home.png';
+const String menuProdutos = 'assets/images/menu_produtos.png';
+const String menuPagamentos = 'assets/images/menu_pagamento.png';
+const String menuPerfil = 'assets/images/menu_perfil.png';
+const String mastercardIcon = 'assets/images/mastercard_icon.png';
